@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, welcome to REALMS Github.")
+    return HttpResponse("Hello, welcome to REALMS Github 2.")
